@@ -8,16 +8,16 @@
   </SettingsComponent>
   <RecentFiles>
     <RecentFiles>
-      <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:NoObserverPattern/f:Heisenberg.cs" caret="226" fromTop="10" />
-      <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:NoObserverPattern/f:TucoSalamanca.cs" caret="220" fromTop="8" />
-      <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:ObserverPattern/f:GustavoFring.cs" caret="0" fromTop="0" />
-      <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:ObserverPattern/f:Heisenberg.cs" caret="1027" fromTop="47" />
-      <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:ObserverPattern/f:IObserver.cs" caret="171" fromTop="5" />
-      <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:ObserverPattern/f:TucoSalamanca.cs" caret="460" fromTop="18" />
-      <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:ObserverPattern/f:ISubject.cs" caret="180" fromTop="6" />
+      <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:ObserverPattern/f:Heisenberg.cs" caret="85" fromTop="4" />
+      <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:ObserverPattern/f:TucoSalamanca.cs" caret="650" fromTop="20" />
+      <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:ObserverPattern/f:GustavoFring.cs" caret="632" fromTop="24" />
+      <File id="F2559117-FBAD-40C5-99A1-C2701E1C3771/d:ObserverPatternTests/f:HeisenbergTests.cs" caret="1455" fromTop="20" />
+      <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:ObserverPattern/f:IObserver.cs" caret="48" fromTop="2" />
+      <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:ObserverPattern/f:ISubject.cs" caret="48" fromTop="2" />
+      <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:NoObserverPattern/f:TucoSalamanca.cs" caret="50" fromTop="2" />
+      <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:NoObserverPattern/f:Heisenberg.cs" caret="335" fromTop="12" />
     </RecentFiles>
     <RecentEdits>
-      <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:NoObserverPattern/f:Heisenberg.cs" caret="615" fromTop="16" />
       <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:ObserverPattern/f:Heisenberg.cs" caret="1027" fromTop="23" />
       <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:ObserverPattern/f:ISubject.cs" caret="189" fromTop="6" />
       <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:ObserverPattern/f:TucoSalamanca.cs" caret="575" fromTop="16" />
@@ -35,6 +35,8 @@
       <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:ObserverPattern/f:TucoSalamanca.cs" caret="460" fromTop="18" />
       <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:ObserverPattern/f:GustavoFring.cs" caret="386" fromTop="18" />
       <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:ObserverPattern/f:GustavoFring.cs" caret="0" fromTop="0" />
+      <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:NoObserverPattern/f:Heisenberg.cs" caret="0" fromTop="0" />
+      <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:NoObserverPattern/f:Heisenberg.cs" caret="644" fromTop="25" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>

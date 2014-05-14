@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace HeisenbergLab.NoObserverPattern
+﻿namespace HeisenbergLab.NoObserverPattern
 {
     public class Heisenberg
     {
@@ -28,6 +26,5 @@ namespace HeisenbergLab.NoObserverPattern
             if(buyer != null)
                 buyer.SendOffer(quantity, price);
         }
-        
     }
 }
