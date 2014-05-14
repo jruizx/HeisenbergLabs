@@ -1,0 +1,11 @@
+c:\users\nol-app-jpt-setup\documents\visual studio 2010\Projects\HeisenbergLab\HeisenberLabTests\bin\Debug\HeisenberLabTests.dll
+c:\users\nol-app-jpt-setup\documents\visual studio 2010\Projects\HeisenbergLab\HeisenberLabTests\bin\Debug\HeisenberLabTests.pdb
+c:\users\nol-app-jpt-setup\documents\visual studio 2010\Projects\HeisenbergLab\HeisenberLabTests\bin\Debug\HeisenbergLab.dll
+c:\users\nol-app-jpt-setup\documents\visual studio 2010\Projects\HeisenbergLab\HeisenberLabTests\bin\Debug\Moq.dll
+c:\users\nol-app-jpt-setup\documents\visual studio 2010\Projects\HeisenbergLab\HeisenberLabTests\bin\Debug\nunit.framework.dll
+c:\users\nol-app-jpt-setup\documents\visual studio 2010\Projects\HeisenbergLab\HeisenberLabTests\bin\Debug\HeisenbergLab.pdb
+c:\users\nol-app-jpt-setup\documents\visual studio 2010\Projects\HeisenbergLab\HeisenberLabTests\bin\Debug\Moq.xml
+c:\users\nol-app-jpt-setup\documents\visual studio 2010\Projects\HeisenbergLab\HeisenberLabTests\bin\Debug\nunit.framework.xml
+c:\users\nol-app-jpt-setup\documents\visual studio 2010\Projects\HeisenbergLab\HeisenberLabTests\obj\Debug\HeisenberLabTests.csprojResolveAssemblyReference.cache
+c:\users\nol-app-jpt-setup\documents\visual studio 2010\Projects\HeisenbergLab\HeisenberLabTests\obj\Debug\HeisenberLabTests.dll
+c:\users\nol-app-jpt-setup\documents\visual studio 2010\Projects\HeisenbergLab\HeisenberLabTests\obj\Debug\HeisenberLabTests.pdb

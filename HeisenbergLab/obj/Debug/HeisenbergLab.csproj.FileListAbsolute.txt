@@ -1,0 +1,4 @@
+c:\users\nol-app-jpt-setup\documents\visual studio 2010\Projects\HeisenbergLab\HeisenbergLab\bin\Debug\HeisenbergLab.dll
+c:\users\nol-app-jpt-setup\documents\visual studio 2010\Projects\HeisenbergLab\HeisenbergLab\bin\Debug\HeisenbergLab.pdb
+c:\users\nol-app-jpt-setup\documents\visual studio 2010\Projects\HeisenbergLab\HeisenbergLab\obj\Debug\HeisenbergLab.dll
+c:\users\nol-app-jpt-setup\documents\visual studio 2010\Projects\HeisenbergLab\HeisenbergLab\obj\Debug\HeisenbergLab.pdb

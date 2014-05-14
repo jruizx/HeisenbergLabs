@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC" ModuleId="HeisenbergLab" />
+  <Module PersistentId="F2559117-FBAD-40C5-99A1-C2701E1C3771" ModuleId="HeisenberLabTests" />
+</Modules>
