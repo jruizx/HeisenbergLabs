@@ -16,27 +16,45 @@
       <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:ObserverPattern/f:ISubject.cs" caret="48" fromTop="2" />
       <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:NoObserverPattern/f:TucoSalamanca.cs" caret="50" fromTop="2" />
       <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:NoObserverPattern/f:Heisenberg.cs" caret="335" fromTop="12" />
+      <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:CommandPattern/f:XBoxOne.cs" caret="64" fromTop="4" />
+      <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:CommandPattern/f:PlasmaTv.cs" caret="64" fromTop="4" />
+      <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:CommandPattern/f:ICommand.cs" caret="47" fromTop="2" />
+      <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:CommandPattern/f:TurnOnTvCommand.cs" caret="47" fromTop="2" />
+      <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:CommandPattern/f:TurnOffTvCommand.cs" caret="47" fromTop="2" />
+      <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:CommandPattern/f:PinkmanRemoteControl.cs" caret="47" fromTop="2" />
+      <File id="F2559117-FBAD-40C5-99A1-C2701E1C3771/d:CommandPattern/f:PinkmanRemoteControlTests.cs" caret="139" fromTop="6" />
     </RecentFiles>
     <RecentEdits>
-      <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:ObserverPattern/f:Heisenberg.cs" caret="1027" fromTop="23" />
-      <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:ObserverPattern/f:ISubject.cs" caret="189" fromTop="6" />
-      <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:ObserverPattern/f:TucoSalamanca.cs" caret="575" fromTop="16" />
-      <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:ObserverPattern/f:TucoSalamanca.cs" caret="0" fromTop="0" />
-      <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:ObserverPattern/f:TucoSalamanca.cs" caret="659" fromTop="23" />
-      <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:ObserverPattern/f:GustavoFring.cs" caret="219" fromTop="15" />
-      <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:ObserverPattern/f:GustavoFring.cs" caret="427" fromTop="18" />
-      <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:ObserverPattern/f:GustavoFring.cs" caret="0" fromTop="0" />
-      <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:ObserverPattern/f:GustavoFring.cs" caret="636" fromTop="23" />
-      <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:ObserverPattern/f:IObserver.cs" caret="171" fromTop="5" />
-      <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:ObserverPattern/f:TucoSalamanca.cs" caret="87" fromTop="4" />
-      <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:ObserverPattern/f:TucoSalamanca.cs" caret="404" fromTop="13" />
-      <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:ObserverPattern/f:GustavoFring.cs" caret="442" fromTop="19" />
-      <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:ObserverPattern/f:TucoSalamanca.cs" caret="294" fromTop="10" />
-      <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:ObserverPattern/f:TucoSalamanca.cs" caret="460" fromTop="18" />
-      <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:ObserverPattern/f:GustavoFring.cs" caret="386" fromTop="18" />
-      <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:ObserverPattern/f:GustavoFring.cs" caret="0" fromTop="0" />
-      <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:NoObserverPattern/f:Heisenberg.cs" caret="0" fromTop="0" />
       <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:NoObserverPattern/f:Heisenberg.cs" caret="644" fromTop="25" />
+      <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:CommandPattern/f:XBoxOne.cs" caret="13" fromTop="0" />
+      <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:CommandPattern/f:XBoxOne.cs" caret="539" fromTop="23" />
+      <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:CommandPattern/f:XBoxOne.cs" caret="64" fromTop="4" />
+      <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:CommandPattern/f:PlasmaTv.cs" caret="727" fromTop="31" />
+      <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:CommandPattern/f:PlasmaTv.cs" caret="13" fromTop="0" />
+      <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:CommandPattern/f:PlasmaTv.cs" caret="64" fromTop="4" />
+      <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:CommandPattern/f:ICommand.cs" caret="89" fromTop="9" />
+      <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:CommandPattern/f:ICommand.cs" caret="47" fromTop="2" />
+      <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:CommandPattern/f:TurnOnTvCommand.cs" caret="216" fromTop="11" />
+      <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:CommandPattern/f:TurnOnTvCommand.cs" caret="241" fromTop="13" />
+      <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:CommandPattern/f:TurnOnTvCommand.cs" caret="345" fromTop="20" />
+      <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:CommandPattern/f:TurnOnTvCommand.cs" caret="135" fromTop="9" />
+      <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:CommandPattern/f:TurnOnTvCommand.cs" caret="47" fromTop="2" />
+      <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:CommandPattern/f:TurnOffTvCommand.cs" caret="243" fromTop="11" />
+      <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:CommandPattern/f:TurnOffTvCommand.cs" caret="243" fromTop="13" />
+      <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:CommandPattern/f:TurnOffTvCommand.cs" caret="340" fromTop="20" />
+      <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:CommandPattern/f:TurnOffTvCommand.cs" caret="135" fromTop="9" />
+      <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:CommandPattern/f:TurnOffTvCommand.cs" caret="47" fromTop="2" />
+      <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:CommandPattern/f:PinkmanRemoteControl.cs" caret="686" fromTop="22" />
+      <File id="F2559117-FBAD-40C5-99A1-C2701E1C3771/d:CommandPattern/f:PinkmanRemoteControlTests.cs" caret="0" fromTop="0" />
+      <File id="F2559117-FBAD-40C5-99A1-C2701E1C3771/d:CommandPattern/f:PinkmanRemoteControlTests.cs" caret="262" fromTop="9" />
+      <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:CommandPattern/f:PinkmanRemoteControl.cs" caret="173" fromTop="7" />
+      <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:CommandPattern/f:PinkmanRemoteControl.cs" caret="269" fromTop="11" />
+      <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:CommandPattern/f:PinkmanRemoteControl.cs" caret="473" fromTop="19" />
+      <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:CommandPattern/f:PinkmanRemoteControl.cs" caret="686" fromTop="30" />
+      <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:CommandPattern/f:PinkmanRemoteControl.cs" caret="686" fromTop="28" />
+      <File id="4D8B02A5-7A10-4CE2-B7B7-DB814129BFDC/d:CommandPattern/f:PinkmanRemoteControl.cs" caret="0" fromTop="0" />
+      <File id="F2559117-FBAD-40C5-99A1-C2701E1C3771/d:CommandPattern/f:PinkmanRemoteControlTests.cs" caret="637" fromTop="21" />
+      <File id="F2559117-FBAD-40C5-99A1-C2701E1C3771/d:CommandPattern/f:PinkmanRemoteControlTests.cs" caret="472" fromTop="15" />
     </RecentEdits>
   </RecentFiles>
   <NAntValidationSettings>
@@ -51,13 +69,13 @@
   </UnitTestRunnerNUnit>
   <CompletionStatisticsManager>
     <ItemStatistics item="Default">
-      <Item value="void" priority="11" />
+      <Item value="void" priority="21" />
       <Item value="observer" priority="2" />
       <Item value="IObserver`0" priority="4" />
       <Item value="ISubject`0" priority="1" />
       <Item value="float" priority="14" />
-      <Item value="public" priority="14" />
-      <Item value="private" priority="5" />
+      <Item value="public" priority="26" />
+      <Item value="private" priority="9" />
       <Item value="TucoSalamanca`0" priority="8" />
       <Item value="buyer" priority="5" />
       <Item value="Heisenberg`0" priority="1" />
@@ -67,9 +85,9 @@
       <Item value="return" priority="0" />
       <Item value="Quantity" priority="0" />
       <Item value="CookCompleted`0" priority="0" />
-      <Item value="Console`0" priority="0" />
+      <Item value="Console`0" priority="6" />
       <Item value="theCook" priority="4" />
-      <Item value="new" priority="6" />
+      <Item value="new" priority="11" />
       <Item value="Heisenberg" priority="0" />
       <Item value="theBuyer" priority="3" />
       <Item value="Assert`0" priority="10" />
@@ -79,12 +97,12 @@
       <Item value="OfferReceived" priority="2" />
       <Item value="true" priority="2" />
       <Item value="money" priority="1" />
-      <Item value="if" priority="2" />
-      <Item value="IList" priority="0" />
+      <Item value="if" priority="5" />
+      <Item value="IList" priority="1" />
       <Item value="buyers" priority="4" />
       <Item value="List&lt;IObserver&gt;" priority="0" />
       <Item value="foreach" priority="0" />
-      <Item value="var" priority="4" />
+      <Item value="var" priority="6" />
       <Item value="in" priority="1" />
       <Item value="Notify`0" priority="0" />
       <Item value="AssertionException`0" priority="0" />
@@ -95,9 +113,34 @@
       <Item value="Is`0" priority="0" />
       <Item value="GustavoFring`0" priority="0" />
       <Item value="gustavoFring" priority="1" />
+      <Item value="int" priority="4" />
+      <Item value="string" priority="0" />
+      <Item value="channelNumber" priority="0" />
+      <Item value="ICommand`0" priority="7" />
+      <Item value="TurnOnTvCommand`0" priority="0" />
+      <Item value="PlasmaTv`0" priority="3" />
+      <Item value="this" priority="1" />
+      <Item value="receiver" priority="3" />
+      <Item value="TurnOffTvCommand`0" priority="0" />
+      <Item value="List" priority="1" />
+      <Item value="IEnumerable" priority="0" />
+      <Item value="PinkmanRemoteControl`0" priority="0" />
+      <Item value="commands" priority="6" />
+      <Item value="Array`0" priority="1" />
+      <Item value="List&lt;ICommand&gt;" priority="0" />
+      <Item value="CommandPattern" priority="0" />
+      <Item value="command" priority="5" />
+      <Item value="slot" priority="2" />
+      <Item value="item" priority="1" />
+      <Item value="PinkmanRemoteControlTests`0" priority="0" />
+      <Item value="remoteControl" priority="1" />
+      <Item value="x" priority="0" />
+      <Item value="Times`0" priority="0" />
+      <Item value="const" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@System.Console">
       <Item value="Write`0" priority="0" />
+      <Item value="WriteLine`0" priority="5" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:@NUnit.Framework.Assert">
       <Item value="That`0" priority="1" />
@@ -110,8 +153,8 @@
       <Item value="True`0" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:Moq.Mock`1">
-      <Item value="Object" priority="1" />
-      <Item value="Verify`1" priority="1" />
+      <Item value="Object" priority="2" />
+      <Item value="Verify`1" priority="2" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:HeisenbergLab.NoObserverPattern.TucoSalamanca">
       <Item value="Update`0" priority="0" />
@@ -127,6 +170,8 @@
       <Item value="Add`0" priority="0" />
       <Item value="Contains`0" priority="0" />
       <Item value="Remove`0" priority="0" />
+      <Item value="Insert`0" priority="0" />
+      <Item value="Count" priority="0" />
     </ItemStatistics>
     <ItemStatistics item="Qualified:HeisenbergLab.ObserverPattern.IObserver">
       <Item value="Update`0" priority="0" />
@@ -142,6 +187,30 @@
     </ItemStatistics>
     <ItemStatistics item="Qualified:@NUnit.Framework.Is">
       <Item value="True" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.String">
+      <Item value="Format`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:HeisenbergLab.CommandPattern.TurnOnTvCommand">
+      <Item value="receiver" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:HeisenbergLab.CommandPattern.PlasmaTv">
+      <Item value="On`0" priority="0" />
+      <Item value="Off`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:HeisenbergLab.CommandPattern.TurnOffTvCommand">
+      <Item value="receiver" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:HeisenbergLab.CommandPattern.ICommand">
+      <Item value="Execute`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:HeisenbergLab.CommandPattern.PinkmanRemoteControl">
+      <Item value="PressButton`0" priority="0" />
+      <Item value="SetCommand`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Moq.Times">
+      <Item value="Once`0" priority="1" />
+      <Item value="Never`0" priority="0" />
     </ItemStatistics>
   </CompletionStatisticsManager>
 </Configuration>

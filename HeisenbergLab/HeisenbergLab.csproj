@@ -39,6 +39,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CommandPattern\ICommand.cs" />
+    <Compile Include="CommandPattern\PinkmanRemoteControl.cs" />
+    <Compile Include="CommandPattern\PlasmaTv.cs" />
+    <Compile Include="CommandPattern\TurnOffTvCommand.cs" />
+    <Compile Include="CommandPattern\TurnOnTvCommand.cs" />
+    <Compile Include="CommandPattern\XBoxOne.cs" />
     <Compile Include="NoObserverPattern\Heisenberg.cs" />
     <Compile Include="NoObserverPattern\TucoSalamanca.cs" />
     <Compile Include="ObserverPattern\GustavoFring.cs" />
@@ -48,6 +54,7 @@
     <Compile Include="ObserverPattern\TucoSalamanca.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

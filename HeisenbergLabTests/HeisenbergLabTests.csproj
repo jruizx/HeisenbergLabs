@@ -46,6 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CommandPattern\PinkmanRemoteControlTests.cs" />
     <Compile Include="NoObserverPattern\HeisenbergTests.cs" />
     <Compile Include="ObserverPatternTests\HeisenbergTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
